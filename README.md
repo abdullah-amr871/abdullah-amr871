@@ -7,15 +7,15 @@
     <em>Faculty of Science, Alamein International University (AIU)</em>
   </p>
   <p>
-    <a href="https://github.com/scicomm-superbugs">
+    <a href="https://github.com/abdullah-amr871">
       <img src="https://img.shields.io/badge/AIU-Teaching%20Assistant-0284c7?style=for-the-badge&logo=google-scholar&logoColor=white" alt="AIU Teaching Assistant" />
     </a>
     &nbsp;
-    <a href="https://github.com/scicomm-superbugs">
+    <a href="https://github.com/abdullah-amr871">
       <img src="https://img.shields.io/badge/Founder-Superbugs-059669?style=for-the-badge&logo=dna&logoColor=white" alt="Founder Superbugs" />
     </a>
     &nbsp;
-    <a href="https://github.com/scicomm-superbugs">
+    <a href="https://github.com/abdullah-amr871">
       <img src="./assets/contributions-badge.svg" alt="GitHub Contributions" />
     </a>
   </p>

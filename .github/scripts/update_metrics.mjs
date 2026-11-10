@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from 'fs';
 
 async function updateLiveMetrics() {
   const query = `{
-    user(login: "scicomm-superbugs") {
+    user(login: "abdullah-amr871") {
       contributionsCollection {
         contributionCalendar {
           totalContributions
