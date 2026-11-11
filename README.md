@@ -18,6 +18,10 @@
     <a href="https://github.com/abdullah-amr871">
       <img src="./assets/contributions-badge.svg" alt="GitHub Contributions" />
     </a>
+    &nbsp;
+    <a href="https://hub.xerj.org/contributors/abdullah-amr871">
+      <img src="https://hub.xerj.org/contributors/abdullah-amr871/badge.svg" alt="XERJ Corpus Hub contributor" />
+    </a>
   </p>
 </div>
 
